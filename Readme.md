@@ -1,11 +1,12 @@
-====================================================================================
-===================== Sample Java Service Wrapper Application ======================
-====================================================================================
+Sample Java Service Wrapper Application
+---------------------------------------
+Wrappers for Linux/MacOS
 
 Tech Used
 ---------
 Build - Maven
 Logger Framework - Log4j/slf4j
+
 
 Run
 ---
